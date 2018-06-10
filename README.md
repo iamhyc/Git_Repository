@@ -1,5 +1,5 @@
 
-This comes from oen final project of my first-year Java lesson.
+This comes from one final project of my first-year Java lesson.
 
 ~~Now, we are allowed to change a bit.~~
 
